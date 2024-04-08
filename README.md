@@ -13,6 +13,7 @@ Once you have Python, you can clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Yoohoo-cf/Higher_Lower_Game.git
+```bash
 
 ## Running the game
 To start the game, navigate to the project directory and run the following command in your terminal:
