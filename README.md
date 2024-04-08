@@ -9,7 +9,10 @@ The game presents you with two options: 'A' and 'B'. Each option corresponds to 
 ## Installation
 
 Before you can run the game, you need to have Python installed on your computer. If you don't have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
-Once you have Python, you can clone the repository to your local machine: git clone https://github.com/Yoohoo-cf/Higher_Lower_Game.git
+Once you have Python, you can clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Yoohoo-cf/Higher_Lower_Game.git
 
 ## Running the game
 To start the game, navigate to the project directory and run the following command in your terminal:
